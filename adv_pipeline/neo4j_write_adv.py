@@ -32,15 +32,30 @@ class Neo4jConnection:
 
 emrconn = Neo4jConnection("bolt://localhost:7687","guhacamole","password")
 
+emrconn.query("CREATE OR REPLACE DATABASE lr_graph_5m")
+
+query = '''
+USING PERIODIC COMMIT 500
+LOAD CSV WITH HEADERS FROM
+"https://raw.githubusercontent.com/guhacamole/hkgpipeline/master/adv_pipeline/lrweights.csv"
+AS line FIELDTERMINATOR ','
+MERGE (disease:Disease {name: line.sb})
+MERGE (symptom:Symptom {name: line.ob})
+MERGE (disease)-[r:disease_symptom {wt: line.wt}]->(symptom)
+'''
+emrconn.query(query, db='lr_graph_5m')
+
+"""
 emrconn.query("CREATE OR REPLACE DATABASE graphdb2")
 
 query = '''
 USING PERIODIC COMMIT 500
 LOAD CSV WITH HEADERS FROM
-"https://raw.githubusercontent.com/guhacamole/neo4jfiles/master/prelim_pipeline/data-5m.csv"
+"https://raw.githubusercontent.com/guhacamole/hkgpipeline/master/adv_pipeline/lrweights.csv"
 AS line FIELDTERMINATOR ','
 MERGE (disease:Disease {name: line.sb})
-MERGE (object:Object {name: line.ob})
-MERGE (disease)-[r:symptom {wt: line.wt}]->(object)
+MERGE (symptom:Symptom {name: line.ob})
+MERGE (disease)-[r:disease_symptom {wt: line.wt}]->(symptom)
 '''
 emrconn.query(query, db='graphdb2')
+"""

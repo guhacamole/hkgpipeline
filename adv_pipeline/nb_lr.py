@@ -163,9 +163,9 @@ def onevsall(processdata, subject, subject_list, object_list, demo = False):
 diseases = ["diabetes", "covid19", "tuberculosis", "malaria", "dengue", "ischemic stroke", "alzheimers", "hepatitis-C", "typhoid"]
 symptoms = ["cough", "fever", "headache", "nausea", "fatigue", "diarrhoea", "shortness of breath", "muscle-ache", "loss of appetite", "pallor", "vomiting"]
 
-lrweights = LR(file = "emr-500.csv", beverbose = False)
+lrweights = LR(file = "../../largefiles/emr-5m.csv", beverbose = False)
 
-with open("lrweights.csv", "w") as f:
+with open("lrweights-5m.csv", "w") as f:
 
 	f.write("sb,wt,ob\n")
 	for i in range(len(diseases)):
