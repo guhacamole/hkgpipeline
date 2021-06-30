@@ -1,0 +1,212 @@
+sb,pr,ob,wt
+hepatitis-C,genders,male,2.813839236046206
+ischemic stroke,genders,female,2.6903097344754476
+diabetes,genders,male,2.8904427153407357
+tuberculosis,genders,male,2.8900000111141844
+diabetes,genders,female,2.898925722437002
+covid19,genders,male,3.0162053736719905
+alzheimers,genders,female,2.919097585415339
+covid19,genders,female,2.9929535113344197
+tuberculosis,genders,female,2.906085840054568
+hepatitis-C,genders,female,2.800171026588752
+ischemic stroke,genders,male,2.62660105386089
+dengue,genders,female,2.6551597658805663
+malaria,genders,female,2.8235620306519182
+alzheimers,genders,male,2.8721836373545324
+typhoid,genders,male,2.7023249937287863
+malaria,genders,male,2.798211138344402
+typhoid,genders,female,2.616575738742132
+dengue,genders,male,2.663413269026592
+dengue,ageranges,50-64,1.28604570452866
+dengue,ageranges,18-34,1.8223134814880009
+malaria,ageranges,50-64,1.371182525540395
+tuberculosis,ageranges,18-34,1.981699826862764
+hepatitis-C,ageranges,65+,0.5110769851295917
+tuberculosis,ageranges,50-64,1.4074208357684306
+covid19,ageranges,65+,0.5389127342033231
+covid19,ageranges,50-64,1.439856830731129
+ischemic stroke,ageranges,18-34,1.801778788376154
+covid19,ageranges,18-34,2.0827072740370522
+tuberculosis,ageranges,35-49,1.7064029457580956
+diabetes,ageranges,18-34,2.0084864764344834
+alzheimers,ageranges,18-34,1.9824115291720792
+hepatitis-C,ageranges,18-34,1.9492562560051025
+alzheimers,ageranges,35-49,1.7132941933752681
+diabetes,ageranges,50-64,1.3700324866171467
+malaria,ageranges,65+,0.5078911181899256
+hepatitis-C,ageranges,50-64,1.3290006215243089
+tuberculosis,ageranges,65+,0.4943066076736834
+diabetes,ageranges,65+,0.5123927912007668
+covid19,ageranges,35-49,1.7483721679559039
+dengue,ageranges,35-49,1.530368908723691
+typhoid,ageranges,35-49,1.526882445816717
+ischemic stroke,ageranges,50-64,1.2624074283938482
+diabetes,ageranges,35-49,1.699025488751742
+malaria,ageranges,35-49,1.6357272640565994
+hepatitis-C,ageranges,35-49,1.6221870182513656
+typhoid,ageranges,18-34,1.830835973033005
+alzheimers,ageranges,50-64,1.3820183018196412
+malaria,ageranges,18-34,1.8948547051291516
+ischemic stroke,ageranges,65+,0.4796936866655911
+ischemic stroke,ageranges,35-49,1.5659833706200388
+typhoid,ageranges,50-64,1.275978708406967
+alzheimers,ageranges,65+,0.5104434032976426
+dengue,ageranges,65+,0.4704463504122767
+typhoid,ageranges,65+,0.47463575411234604
+alzheimers,symptoms,fever,1.3536592526099323
+alzheimers,symptoms,cough,1.081593567350886
+covid19,symptoms,shortness of breath,0.2497771847397049
+covid19,symptoms,cough,1.1431860850311673
+ischemic stroke,symptoms,headache,0.2292694753290584
+covid19,symptoms,fever,1.4131118277912262
+covid19,symptoms,headache,0.25211935079791853
+tuberculosis,symptoms,fever,1.3606326582662647
+hepatitis-C,symptoms,loss of appetite,0.2227901067318176
+hepatitis-C,symptoms,fever,1.3190459030912611
+diabetes,symptoms,nausea,0.5521371534090753
+diabetes,symptoms,cough,1.0994674603448875
+alzheimers,symptoms,nausea,0.5409554267315568
+ischemic stroke,symptoms,fever,1.2485173247141914
+malaria,symptoms,cough,1.038341482446847
+alzheimers,symptoms,diarrhoea,0.4942120289237985
+malaria,symptoms,fever,1.3466912231303458
+malaria,symptoms,nausea,0.5234591803725663
+hepatitis-C,symptoms,nausea,0.5122153442851363
+dengue,symptoms,diarrhoea,0.4434331808101617
+malaria,symptoms,muscle-ache,0.24304078587706635
+tuberculosis,symptoms,cough,1.0752053862926167
+covid19,symptoms,vomiting,0.24762197687895557
+tuberculosis,symptoms,headache,0.2411786096945424
+covid19,symptoms,diarrhoea,0.512021827957535
+tuberculosis,symptoms,nausea,0.5523338218528516
+diabetes,symptoms,vomiting,0.2429969288908297
+typhoid,symptoms,diarrhoea,0.440198092947295
+hepatitis-C,symptoms,muscle-ache,0.2628912498118029
+covid19,symptoms,nausea,0.5552686753074992
+malaria,symptoms,fatigue,0.2392114815705103
+typhoid,symptoms,muscle-ache,0.22834474931799134
+ischemic stroke,symptoms,diarrhoea,0.43426972522800944
+diabetes,symptoms,headache,0.24181882429725804
+diabetes,symptoms,diarrhoea,0.4800233687285698
+ischemic stroke,symptoms,nausea,0.49713421094286236
+alzheimers,symptoms,muscle-ache,0.27541678763125016
+tuberculosis,symptoms,muscle-ache,0.27021836548119726
+covid19,symptoms,muscle-ache,0.2871397991152243
+hepatitis-C,symptoms,diarrhoea,0.47096381175697744
+hepatitis-C,symptoms,fatigue,0.23600229783351281
+dengue,symptoms,fever,1.2023345986538259
+typhoid,symptoms,fever,1.2484103466187408
+ischemic stroke,symptoms,cough,0.9890693380451049
+covid19,symptoms,pallor,0.2569116866774465
+typhoid,symptoms,nausea,0.48139186304271664
+malaria,symptoms,diarrhoea,0.48067405754867404
+tuberculosis,symptoms,vomiting,0.23935169230081954
+tuberculosis,symptoms,shortness of breath,0.25156134561687665
+hepatitis-C,symptoms,cough,1.035360891938188
+covid19,symptoms,fatigue,0.2572631899959639
+dengue,symptoms,vomiting,0.22026447417545952
+tuberculosis,symptoms,diarrhoea,0.49292415316085464
+diabetes,symptoms,pallor,0.23332018746143157
+dengue,symptoms,cough,0.9984705566486812
+diabetes,symptoms,fever,1.3660050987867807
+malaria,symptoms,loss of appetite,0.23619774848072586
+malaria,symptoms,headache,0.23727072349778286
+hepatitis-C,symptoms,pallor,0.23428162806490915
+diabetes,symptoms,shortness of breath,0.24701296052779348
+ischemic stroke,symptoms,pallor,0.22396754243822112
+alzheimers,symptoms,shortness of breath,0.24987999118965362
+tuberculosis,symptoms,pallor,0.24714902858779914
+ischemic stroke,symptoms,muscle-ache,0.24191225809593678
+malaria,symptoms,pallor,0.22945453771374758
+dengue,symptoms,fatigue,0.23631225557032057
+hepatitis-C,symptoms,vomiting,0.2497885792580709
+tuberculosis,symptoms,fatigue,0.2417289264257015
+alzheimers,symptoms,pallor,0.23902178493819115
+covid19,symptoms,loss of appetite,0.2536607212426156
+malaria,symptoms,shortness of breath,0.22863655015850382
+tuberculosis,symptoms,loss of appetite,0.23223966896869738
+alzheimers,symptoms,headache,0.24700436399391093
+alzheimers,symptoms,fatigue,0.24184580620372848
+alzheimers,symptoms,vomiting,0.23787987536980326
+typhoid,symptoms,headache,0.22939355045845017
+hepatitis-C,symptoms,headache,0.2429508158348886
+diabetes,symptoms,loss of appetite,0.2429030751870054
+typhoid,symptoms,cough,0.9895109208068448
+hepatitis-C,symptoms,shortness of breath,0.24311478279940454
+dengue,symptoms,pallor,0.22074288703262224
+typhoid,symptoms,loss of appetite,0.2267836101643661
+alzheimers,symptoms,loss of appetite,0.24513846405993328
+diabetes,symptoms,muscle-ache,0.27214287319801816
+diabetes,symptoms,fatigue,0.23125837860761134
+dengue,symptoms,muscle-ache,0.23540380246777218
+ischemic stroke,symptoms,loss of appetite,0.23145603883599558
+malaria,symptoms,vomiting,0.2294602008959079
+dengue,symptoms,nausea,0.5212448269788748
+typhoid,symptoms,pallor,0.22266842674793616
+typhoid,symptoms,shortness of breath,0.22934970148402137
+dengue,drugs,paracetamol,2.121599704428706
+alzheimers,drugs,paracetamol,2.328002099422982
+typhoid,drugs,paracetamol,2.100476451493655
+malaria,drugs,paracetamol,2.204748458717452
+diabetes,drugs,esomeprazole,0.4988798101409105
+hepatitis-C,drugs,paracetamol,2.2292517699793097
+diabetes,drugs,paracetamol,2.308599088770438
+diabetes,drugs,levothyroxine,0.24251180191858324
+alzheimers,drugs,esomeprazole,0.5160651596789668
+covid19,drugs,paracetamol,2.4000280177228572
+covid19,drugs,insulin,0.8358210840691022
+alzheimers,drugs,insulin,0.7984457769529132
+malaria,drugs,fluticasone,0.7779260129740471
+dengue,drugs,albuterol,0.2231170777321665
+tuberculosis,drugs,insulin,0.8082610188244774
+ischemic stroke,drugs,paracetamol,2.1088469174448767
+tuberculosis,drugs,paracetamol,2.2967695649657767
+tuberculosis,drugs,pregabalin,0.23575179320774184
+alzheimers,drugs,fluticasone,0.8047363946891839
+hepatitis-C,drugs,pregabalin,0.23473486235053187
+covid19,drugs,esomeprazole,0.5402600395251743
+malaria,drugs,albuterol,0.23293619380920827
+covid19,drugs,pregabalin,0.25806529586709315
+alzheimers,drugs,albuterol,0.23804103185911826
+dengue,drugs,esomeprazole,0.439212571753993
+hepatitis-C,drugs,insulin,0.7666877771436965
+tuberculosis,drugs,fluticasone,0.8007771599869399
+tuberculosis,drugs,esomeprazole,0.5143235057239204
+diabetes,drugs,insulin,0.7996438829337887
+diabetes,drugs,albuterol,0.24829930899941827
+alzheimers,drugs,rosuvastatin,0.233915778929096
+covid19,drugs,rosuvastatin,0.2518002570128072
+diabetes,drugs,pregabalin,0.25300012486860474
+malaria,drugs,rosuvastatin,0.25288280068107805
+hepatitis-C,drugs,esomeprazole,0.516053872094551
+ischemic stroke,drugs,esomeprazole,0.47719009320985645
+alzheimers,drugs,pregabalin,0.23809869808669099
+covid19,drugs,albuterol,0.2536088430432983
+hepatitis-C,drugs,fluticasone,0.7691611727910103
+malaria,drugs,esomeprazole,0.4982491430836352
+covid19,drugs,fluticasone,0.8226554066067491
+diabetes,drugs,fluticasone,0.7979087916638717
+covid19,drugs,levothyroxine,0.24745660380434514
+ischemic stroke,drugs,insulin,0.7066541053451749
+dengue,drugs,fluticasone,0.7316927146886596
+dengue,drugs,insulin,0.7108740093801815
+tuberculosis,drugs,rosuvastatin,0.2399996087683949
+malaria,drugs,insulin,0.7801839842178322
+diabetes,drugs,rosuvastatin,0.24029725356124904
+ischemic stroke,drugs,pregabalin,0.22498114820395662
+dengue,drugs,levothyroxine,0.22950156498169103
+hepatitis-C,drugs,rosuvastatin,0.24629265296565367
+ischemic stroke,drugs,fluticasone,0.7403735579126908
+typhoid,drugs,esomeprazole,0.46436476591562015
+typhoid,drugs,fluticasone,0.7346542840079988
+hepatitis-C,drugs,levothyroxine,0.23171068611334258
+malaria,drugs,levothyroxine,0.23784136096722724
+typhoid,drugs,insulin,0.7315503506958222
+ischemic stroke,drugs,albuterol,0.22104230815039563
+ischemic stroke,drugs,levothyroxine,0.22225072930430806
+tuberculosis,drugs,albuterol,0.24215349972691166
+tuberculosis,drugs,levothyroxine,0.25171322375694316
+typhoid,drugs,albuterol,0.24091506403389637
+malaria,drugs,pregabalin,0.22463142719534857
+alzheimers,drugs,levothyroxine,0.23394240590064638
+dengue,drugs,pregabalin,0.23776592515999445

@@ -1,0 +1,271 @@
+Subject,Predicate,Object,Frequency
+hepatitis-C,genders,male,47026
+ischemic stroke,genders,female,23585
+diabetes,genders,male,70455
+tuberculosis,genders,male,70681
+diabetes,genders,female,70603
+covid19,genders,male,118240
+alzheimers,genders,female,71035
+covid19,genders,female,117880
+tuberculosis,genders,female,70919
+hepatitis-C,genders,female,46948
+ischemic stroke,genders,male,23299
+dengue,genders,female,23503
+malaria,genders,female,47453
+alzheimers,genders,male,70434
+typhoid,genders,male,23803
+malaria,genders,male,47215
+typhoid,genders,female,23453
+dengue,genders,male,23522
+malaria,genders,third,925
+tuberculosis,genders,third,1370
+covid19,genders,third,2423
+ischemic stroke,genders,third,470
+diabetes,genders,third,1427
+alzheimers,genders,third,1424
+hepatitis-C,genders,third,957
+typhoid,genders,third,481
+dengue,genders,third,469
+dengue,ageranges,50-64,11956
+dengue,ageranges,18-34,16595
+malaria,ageranges,50-64,24002
+tuberculosis,ageranges,18-34,49824
+hepatitis-C,ageranges,65+,9646
+tuberculosis,ageranges,50-64,35965
+covid19,ageranges,65+,23824
+covid19,ageranges,50-64,59454
+ischemic stroke,ageranges,18-34,16555
+covid19,ageranges,18-34,83479
+tuberculosis,ageranges,35-49,43106
+diabetes,ageranges,18-34,50273
+alzheimers,ageranges,18-34,49796
+hepatitis-C,ageranges,18-34,33469
+alzheimers,ageranges,35-49,43158
+diabetes,ageranges,50-64,35591
+malaria,ageranges,65+,9595
+hepatitis-C,ageranges,50-64,23699
+tuberculosis,ageranges,65+,13998
+diabetes,ageranges,65+,14277
+covid19,ageranges,35-49,71329
+dengue,ageranges,35-49,14193
+typhoid,ageranges,35-49,14156
+ischemic stroke,ageranges,50-64,11886
+diabetes,ageranges,35-49,43124
+malaria,ageranges,35-49,28538
+hepatitis-C,ageranges,35-49,28490
+typhoid,ageranges,18-34,16607
+alzheimers,ageranges,50-64,35625
+malaria,ageranges,18-34,32940
+ischemic stroke,ageranges,65+,4821
+ischemic stroke,ageranges,35-49,14394
+typhoid,ageranges,50-64,11893
+alzheimers,ageranges,65+,14205
+dengue,ageranges,65+,4762
+typhoid,ageranges,65+,4775
+alzheimers,symptoms,fever,35139
+alzheimers,symptoms,cough,28523
+covid19,symptoms,shortness of breath,11850
+covid19,symptoms,cough,47646
+ischemic stroke,symptoms,headache,2439
+covid19,symptoms,fever,58366
+covid19,symptoms,headache,11907
+tuberculosis,symptoms,fever,34982
+hepatitis-C,symptoms,loss of appetite,4659
+hepatitis-C,symptoms,fever,23475
+diabetes,symptoms,nausea,15135
+diabetes,symptoms,cough,28678
+alzheimers,symptoms,nausea,15024
+ischemic stroke,symptoms,fever,11686
+malaria,symptoms,cough,18849
+alzheimers,symptoms,diarrhoea,13746
+malaria,symptoms,fever,23616
+malaria,symptoms,nausea,9975
+hepatitis-C,symptoms,nausea,9911
+dengue,symptoms,diarrhoea,4508
+malaria,symptoms,muscle-ache,5076
+tuberculosis,symptoms,cough,28245
+ischemic stroke,symptoms,fatigue,2369
+covid19,symptoms,vomiting,11718
+tuberculosis,symptoms,headache,7133
+covid19,symptoms,diarrhoea,22716
+tuberculosis,symptoms,nausea,15070
+diabetes,symptoms,vomiting,7138
+typhoid,symptoms,diarrhoea,4485
+hepatitis-C,symptoms,muscle-ache,5291
+covid19,symptoms,nausea,24721
+malaria,symptoms,fatigue,4812
+typhoid,symptoms,muscle-ache,2523
+typhoid,symptoms,vomiting,2350
+ischemic stroke,symptoms,diarrhoea,4483
+diabetes,symptoms,headache,7174
+diabetes,symptoms,diarrhoea,13522
+ischemic stroke,symptoms,nausea,5004
+alzheimers,symptoms,muscle-ache,7982
+tuberculosis,symptoms,muscle-ache,7855
+covid19,symptoms,muscle-ache,13218
+hepatitis-C,symptoms,diarrhoea,9097
+hepatitis-C,symptoms,fatigue,4800
+dengue,symptoms,fever,11426
+typhoid,symptoms,fever,11615
+ischemic stroke,symptoms,cough,9454
+covid19,symptoms,pallor,11960
+typhoid,symptoms,nausea,4898
+malaria,symptoms,diarrhoea,9150
+tuberculosis,symptoms,vomiting,7055
+tuberculosis,symptoms,shortness of breath,7276
+hepatitis-C,symptoms,cough,18898
+covid19,symptoms,fatigue,11976
+dengue,symptoms,vomiting,2365
+tuberculosis,symptoms,diarrhoea,13634
+diabetes,symptoms,pallor,7020
+dengue,symptoms,cough,9455
+diabetes,symptoms,fever,35206
+malaria,symptoms,loss of appetite,4772
+malaria,symptoms,headache,4812
+hepatitis-C,symptoms,pallor,4780
+diabetes,symptoms,shortness of breath,7245
+ischemic stroke,symptoms,pallor,2401
+alzheimers,symptoms,shortness of breath,7303
+tuberculosis,symptoms,pallor,7184
+ischemic stroke,symptoms,muscle-ache,2609
+malaria,symptoms,pallor,4714
+dengue,symptoms,fatigue,2454
+typhoid,symptoms,fatigue,2320
+hepatitis-C,symptoms,vomiting,4915
+tuberculosis,symptoms,fatigue,7113
+alzheimers,symptoms,pallor,7119
+covid19,symptoms,loss of appetite,11868
+malaria,symptoms,shortness of breath,4726
+tuberculosis,symptoms,loss of appetite,6962
+alzheimers,symptoms,headache,7265
+alzheimers,symptoms,fatigue,7164
+alzheimers,symptoms,vomiting,7083
+typhoid,symptoms,headache,2425
+hepatitis-C,symptoms,headache,4886
+diabetes,symptoms,loss of appetite,7145
+typhoid,symptoms,cough,9399
+dengue,symptoms,shortness of breath,2351
+hepatitis-C,symptoms,shortness of breath,4886
+dengue,symptoms,pallor,2374
+typhoid,symptoms,loss of appetite,2397
+alzheimers,symptoms,loss of appetite,7194
+diabetes,symptoms,muscle-ache,7917
+diabetes,symptoms,fatigue,6995
+dengue,symptoms,muscle-ache,2564
+ischemic stroke,symptoms,loss of appetite,2435
+dengue,symptoms,loss of appetite,2332
+malaria,symptoms,vomiting,4701
+dengue,symptoms,nausea,5096
+ischemic stroke,symptoms,vomiting,2318
+typhoid,symptoms,pallor,2380
+typhoid,symptoms,shortness of breath,2424
+dengue,symptoms,headache,2371
+ischemic stroke,symptoms,shortness of breath,2317
+dengue,drugs,paracetamol,18961
+alzheimers,drugs,paracetamol,57266
+typhoid,drugs,paracetamol,19025
+malaria,drugs,paracetamol,37872
+diabetes,drugs,esomeprazole,14077
+hepatitis-C,drugs,paracetamol,38191
+diabetes,drugs,paracetamol,57356
+diabetes,drugs,levothyroxine,7148
+alzheimers,drugs,esomeprazole,14228
+covid19,drugs,paracetamol,95142
+covid19,drugs,insulin,35660
+alzheimers,drugs,insulin,21337
+malaria,drugs,fluticasone,14319
+dengue,drugs,albuterol,2386
+tuberculosis,drugs,insulin,21614
+ischemic stroke,drugs,paracetamol,19248
+typhoid,drugs,levothyroxine,2379
+tuberculosis,drugs,paracetamol,57297
+tuberculosis,drugs,pregabalin,7085
+alzheimers,drugs,fluticasone,21413
+hepatitis-C,drugs,pregabalin,4794
+covid19,drugs,esomeprazole,23764
+malaria,drugs,albuterol,4751
+covid19,drugs,pregabalin,11990
+alzheimers,drugs,albuterol,7052
+dengue,drugs,esomeprazole,4583
+hepatitis-C,drugs,insulin,14266
+tuberculosis,drugs,fluticasone,21513
+tuberculosis,drugs,esomeprazole,14305
+diabetes,drugs,insulin,21472
+diabetes,drugs,albuterol,7236
+alzheimers,drugs,rosuvastatin,6983
+covid19,drugs,rosuvastatin,11805
+diabetes,drugs,pregabalin,7318
+dengue,drugs,rosuvastatin,2335
+malaria,drugs,rosuvastatin,4934
+hepatitis-C,drugs,esomeprazole,9705
+ischemic stroke,drugs,esomeprazole,4854
+alzheimers,drugs,pregabalin,7069
+covid19,drugs,albuterol,11863
+hepatitis-C,drugs,fluticasone,14285
+ischemic stroke,drugs,rosuvastatin,2375
+malaria,drugs,esomeprazole,9514
+covid19,drugs,fluticasone,35381
+diabetes,drugs,fluticasone,21445
+covid19,drugs,levothyroxine,11713
+ischemic stroke,drugs,insulin,7117
+dengue,drugs,fluticasone,7107
+dengue,drugs,insulin,7011
+hepatitis-C,drugs,albuterol,4633
+tuberculosis,drugs,rosuvastatin,7119
+malaria,drugs,insulin,14342
+diabetes,drugs,rosuvastatin,7113
+ischemic stroke,drugs,pregabalin,2444
+dengue,drugs,levothyroxine,2416
+hepatitis-C,drugs,rosuvastatin,4887
+ischemic stroke,drugs,fluticasone,7276
+typhoid,drugs,esomeprazole,4745
+typhoid,drugs,fluticasone,7179
+hepatitis-C,drugs,levothyroxine,4749
+malaria,drugs,levothyroxine,4794
+typhoid,drugs,insulin,7166
+ischemic stroke,drugs,albuterol,2418
+ischemic stroke,drugs,levothyroxine,2422
+typhoid,drugs,rosuvastatin,2290
+tuberculosis,drugs,albuterol,7160
+tuberculosis,drugs,levothyroxine,7287
+typhoid,drugs,pregabalin,2389
+typhoid,drugs,albuterol,2495
+malaria,drugs,pregabalin,4680
+alzheimers,drugs,levothyroxine,6987
+dengue,drugs,pregabalin,2465
+covid19,diseases,tuberculosis,79193
+covid19,diseases,malaria,53222
+alzheimers,diseases,malaria,31908
+covid19,diseases,diabetes,79408
+covid19,diseases,dengue,26379
+tuberculosis,diseases,typhoid,15711
+alzheimers,diseases,dengue,15705
+diabetes,diseases,ischemic stroke,16051
+diabetes,diseases,malaria,31911
+diabetes,diseases,hepatitis-C,31728
+dengue,diseases,tuberculosis,15837
+diabetes,diseases,tuberculosis,47435
+covid19,diseases,hepatitis-C,52834
+alzheimers,diseases,tuberculosis,47925
+alzheimers,diseases,hepatitis-C,31690
+alzheimers,diseases,diabetes,47331
+diabetes,diseases,typhoid,15812
+hepatitis-C,diseases,malaria,21212
+hepatitis-C,diseases,tuberculosis,31724
+alzheimers,diseases,covid19,78858
+ischemic stroke,diseases,malaria,10606
+dengue,diseases,malaria,10604
+ischemic stroke,diseases,tuberculosis,15737
+malaria,diseases,tuberculosis,31989
+covid19,diseases,typhoid,26467
+dengue,diseases,hepatitis-C,10615
+alzheimers,diseases,typhoid,15979
+hepatitis-C,diseases,ischemic stroke,10649
+malaria,diseases,typhoid,10680
+dengue,diseases,diabetes,15832
+alzheimers,diseases,ischemic stroke,16089
+dengue,diseases,ischemic stroke,5284
+ischemic stroke,diseases,typhoid,5330
+dengue,diseases,typhoid,5301
+covid19,diseases,ischemic stroke,26264
+hepatitis-C,diseases,typhoid,10700

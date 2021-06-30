@@ -1,0 +1,38 @@
+sb,wt,ob
+diabetes,0.457236739801406,headache
+diabetes,0.9703155542260319,diarrhoea
+diabetes,1.6863752404647732,shortness of breath
+diabetes,0.41895406001910473,loss of appetite
+covid19,1.974822649314868,cough
+covid19,0.8048619207447297,fever
+covid19,0.24725248525397045,nausea
+covid19,1.4195590378271823,fatigue
+tuberculosis,0.550220069779978,headache
+tuberculosis,0.2754376024698322,nausea
+tuberculosis,1.59908531709745,shortness of breath
+tuberculosis,0.6434033647607822,pallor
+tuberculosis,0.7917628822554068,vomiting
+malaria,0.31847093011917715,shortness of breath
+malaria,0.6023150113229181,muscle-ache
+malaria,1.1933755474793466,pallor
+dengue,0.5187517950814357,nausea
+dengue,0.4222249215974058,diarrhoea
+dengue,0.6850702423236797,loss of appetite
+dengue,0.6861674542446551,pallor
+ischemic stroke,0.49298427583338994,fever
+ischemic stroke,1.2173704488899517,diarrhoea
+ischemic stroke,1.3725583326141517,pallor
+alzheimers,0.3084510275265265,fever
+alzheimers,1.1419302512117824,headache
+alzheimers,0.5412759679672277,fatigue
+alzheimers,0.32442943928889223,diarrhoea
+alzheimers,2.1081543631298167,muscle-ache
+alzheimers,0.22964755073898913,loss of appetite
+alzheimers,0.7585432508820024,vomiting
+hepatitis-C,0.7194262263271208,nausea
+hepatitis-C,0.46542011855572885,shortness of breath
+hepatitis-C,2.6566248592259374,vomiting
+typhoid,0.5445632314909725,fever
+typhoid,1.092217031325674,headache
+typhoid,0.7176072507574807,diarrhoea
+typhoid,1.3235306323955809,pallor

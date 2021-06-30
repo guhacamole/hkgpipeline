@@ -1,0 +1,501 @@
+Disease(s),Symptom(s),Drug(s),Age,Gender
+covid19,fatigue,insulin;pregabalin,35,F
+covid19,fatigue;cough,rosuvastatin;pregabalin,38,F
+covid19,cough,albuterol,58,F
+ischemic stroke,fatigue,insulin;esomeprazole,49,M
+typhoid;ischemic stroke,fatigue;diarrhoea;nausea,rosuvastatin;paracetamol;esomeprazole,50,M
+dengue,pallor;diarrhoea,insulin,44,M
+hepatitis-C,shortness of breath;vomiting,fluticasone;paracetamol,39,M
+covid19,cough,esomeprazole,51,M
+covid19,fatigue;cough,insulin,58,M
+dengue,pallor,esomeprazole,49,M
+dengue;covid19,shortness of breath;fatigue;pallor,rosuvastatin;levothyroxine;fluticasone,35,M
+covid19;typhoid,vomiting;pallor,paracetamol;insulin,38,M
+covid19;alzheimers,shortness of breath;loss of appetite;muscle-ache,pregabalin;paracetamol,59,M
+covid19,fatigue,insulin,55,M
+covid19,cough;pallor,rosuvastatin;fluticasone,39,F
+tuberculosis,shortness of breath;pallor,paracetamol;esomeprazole,50,M
+ischemic stroke,pallor,paracetamol;insulin,40,F
+ischemic stroke,pallor,insulin;esomeprazole,60,M
+ischemic stroke,diarrhoea,albuterol,53,F
+covid19,cough;pallor,rosuvastatin;insulin,53,M
+covid19,cough,insulin;rosuvastatin,34,M
+covid19,muscle-ache,insulin,43,M
+covid19,diarrhoea;fatigue,albuterol;insulin,41,M
+covid19,cough,insulin;albuterol,54,M
+dengue,diarrhoea,pregabalin;fluticasone,54,M
+covid19,shortness of breath;fever,insulin,40,M
+hepatitis-C,vomiting,rosuvastatin,42,M
+covid19,cough;fatigue,insulin,40,M
+ischemic stroke,diarrhoea;pallor,pregabalin;insulin,40,F
+covid19,vomiting;cough,insulin;levothyroxine,49,M
+tuberculosis,pallor,paracetamol,35,M
+ischemic stroke,pallor,pregabalin;paracetamol,59,M
+tuberculosis,vomiting;shortness of breath,paracetamol,34,M
+covid19,cough,insulin;fluticasone,39,M
+dengue,pallor;diarrhoea,rosuvastatin;insulin,49,M
+covid19,cough,rosuvastatin;albuterol,38,F
+covid19,shortness of breath;diarrhoea,paracetamol;insulin,47,M
+covid19,cough,insulin;rosuvastatin,41,M
+covid19,cough;nausea,rosuvastatin,42,M
+typhoid,pallor;headache,albuterol,38,F
+covid19,cough;muscle-ache,fluticasone;insulin,58,F
+covid19,pallor;muscle-ache,paracetamol;albuterol,57,F
+dengue;covid19,cough;pallor,rosuvastatin;fluticasone;insulin,48,M
+hepatitis-C,loss of appetite;vomiting,albuterol,45,M
+covid19;malaria,fatigue;loss of appetite;cough,rosuvastatin;paracetamol;insulin,62,M
+covid19,fatigue,paracetamol;insulin,34,M
+covid19,cough;fatigue,insulin;albuterol,46,M
+covid19,cough;fatigue,insulin;albuterol,64,F
+covid19,shortness of breath;diarrhoea,fluticasone;insulin,45,M
+covid19,pallor,insulin;rosuvastatin,43,M
+covid19,pallor,insulin;levothyroxine,59,M
+dengue,cough,fluticasone;rosuvastatin,64,M
+covid19,fever;fatigue,albuterol;paracetamol,39,M
+covid19;tuberculosis,fatigue;shortness of breath;cough,levothyroxine;paracetamol;insulin,46,M
+tuberculosis;typhoid,shortness of breath;diarrhoea;vomiting,paracetamol,41,M
+covid19,shortness of breath;fatigue,rosuvastatin;insulin,50,M
+hepatitis-C,vomiting,fluticasone,56,M
+covid19,fatigue;pallor,pregabalin,40,M
+malaria,pallor;muscle-ache,esomeprazole,57,M
+hepatitis-C,vomiting,esomeprazole;paracetamol,48,M
+ischemic stroke,pallor;diarrhoea,paracetamol;pregabalin,46,M
+dengue,pallor;muscle-ache,pregabalin;fluticasone,47,M
+covid19,pallor;fatigue,insulin;fluticasone,34,M
+covid19,cough;fever,fluticasone;rosuvastatin,52,M
+covid19,cough;fever,insulin,39,F
+covid19,cough;vomiting,rosuvastatin;levothyroxine,63,M
+covid19,fatigue,insulin,34,M
+ischemic stroke,loss of appetite;pallor,esomeprazole;levothyroxine,62,M
+covid19,nausea;muscle-ache,insulin,34,M
+covid19,pallor;fever,pregabalin;insulin,42,M
+dengue,headache;pallor,pregabalin;esomeprazole,51,F
+covid19,diarrhoea;fatigue,levothyroxine;fluticasone,47,M
+ischemic stroke,pallor;diarrhoea,paracetamol;albuterol,35,F
+covid19,cough;vomiting,insulin;rosuvastatin,36,M
+ischemic stroke,diarrhoea;fever,insulin;esomeprazole,35,M
+hepatitis-C,nausea;muscle-ache,rosuvastatin;fluticasone,61,M
+covid19,fatigue,insulin,46,M
+hepatitis-C,vomiting,levothyroxine;rosuvastatin,56,M
+covid19;alzheimers,fatigue;pallor,fluticasone;pregabalin;esomeprazole,60,M
+ischemic stroke,pallor,paracetamol;rosuvastatin,42,M
+covid19,shortness of breath;fever,pregabalin;paracetamol,59,M
+ischemic stroke,pallor,pregabalin;esomeprazole,49,M
+covid19,cough,insulin,46,M
+hepatitis-C,vomiting;shortness of breath,paracetamol;rosuvastatin,53,M
+dengue,loss of appetite;diarrhoea,rosuvastatin,63,M
+covid19,fatigue;diarrhoea,esomeprazole;pregabalin,47,F
+ischemic stroke,pallor;muscle-ache,esomeprazole,41,M
+diabetes;tuberculosis,shortness of breath,paracetamol,51,F
+covid19,cough;fatigue,insulin;rosuvastatin,48,M
+malaria;tuberculosis,pallor,pregabalin;paracetamol;esomeprazole,41,M
+malaria,pallor,insulin;esomeprazole,53,M
+covid19,fever,albuterol;rosuvastatin,42,M
+covid19;alzheimers,diarrhoea;cough;fever,levothyroxine;fluticasone;paracetamol,48,F
+covid19,fatigue,insulin;albuterol,49,F
+covid19,fever,insulin,52,M
+covid19,nausea;cough,insulin;rosuvastatin,61,M
+covid19,cough,insulin;levothyroxine,42,M
+covid19;alzheimers,vomiting;cough;fever,albuterol;pregabalin;insulin,48,M
+ischemic stroke,diarrhoea;pallor,esomeprazole,34,M
+malaria,pallor,esomeprazole,36,M
+dengue;covid19,cough;pallor,fluticasone;insulin;esomeprazole,53,M
+covid19,cough,insulin,51,M
+covid19,cough;pallor,fluticasone;insulin,35,M
+covid19,vomiting;pallor,levothyroxine;albuterol,60,M
+covid19,pallor;cough,insulin,51,M
+covid19,cough,insulin,44,M
+covid19,cough,insulin;fluticasone,37,M
+dengue,diarrhoea,pregabalin;esomeprazole,63,M
+diabetes,shortness of breath,esomeprazole;paracetamol,38,M
+dengue,diarrhoea,rosuvastatin,39,M
+ischemic stroke,diarrhoea,paracetamol;esomeprazole,36,M
+dengue,diarrhoea,rosuvastatin,62,M
+ischemic stroke,pallor,esomeprazole;albuterol,51,F
+hepatitis-C,pallor;shortness of breath,paracetamol;albuterol,46,F
+dengue,nausea;pallor,albuterol;pregabalin,48,M
+covid19,cough;fever,insulin;levothyroxine,58,M
+diabetes,shortness of breath;cough,paracetamol,51,M
+covid19,fatigue;cough,insulin,37,M
+covid19,cough;diarrhoea,esomeprazole;fluticasone,62,M
+covid19,pallor;cough,levothyroxine;fluticasone,37,M
+covid19,cough,esomeprazole,58,M
+covid19,muscle-ache,insulin,46,M
+covid19,cough;fever,albuterol;esomeprazole,42,M
+alzheimers,muscle-ache;fatigue,insulin;rosuvastatin,49,M
+covid19;diabetes,vomiting;cough;pallor,paracetamol;insulin,60,M
+covid19,fatigue;cough,esomeprazole;pregabalin,53,M
+covid19,cough;fatigue,insulin;albuterol,42,F
+hepatitis-C,shortness of breath;pallor,fluticasone;paracetamol,49,F
+covid19,nausea,albuterol,50,M
+alzheimers,vomiting;muscle-ache,pregabalin,47,F
+covid19,fever;diarrhoea,insulin,47,M
+hepatitis-C,headache;vomiting,rosuvastatin;paracetamol,40,M
+diabetes,diarrhoea;shortness of breath,paracetamol;esomeprazole,56,F
+tuberculosis,vomiting,paracetamol,37,M
+hepatitis-C,vomiting;pallor,fluticasone,38,M
+hepatitis-C,shortness of breath;pallor,albuterol;fluticasone,51,F
+covid19,cough;pallor,insulin;rosuvastatin,58,M
+tuberculosis,loss of appetite;pallor,insulin,61,F
+covid19;hepatitis-C,fatigue;shortness of breath;pallor,rosuvastatin;fluticasone;insulin,38,F
+ischemic stroke,pallor;diarrhoea,esomeprazole;pregabalin,39,F
+tuberculosis,nausea;pallor,pregabalin,52,M
+covid19,cough;pallor,insulin,53,M
+covid19,pallor;diarrhoea,rosuvastatin,40,M
+ischemic stroke,pallor;fever,esomeprazole,61,M
+covid19,pallor;headache,insulin,57,M
+hepatitis-C,vomiting,fluticasone;albuterol,45,F
+covid19;ischemic stroke,fatigue;diarrhoea;pallor,levothyroxine;pregabalin;insulin,56,M
+hepatitis-C,fatigue;pallor,paracetamol,52,M
+covid19;tuberculosis,vomiting;cough;pallor,paracetamol;insulin,42,F
+covid19,cough;fever,albuterol;insulin,38,F
+tuberculosis,vomiting;shortness of breath,paracetamol,63,M
+covid19,cough,albuterol,45,M
+tuberculosis,pallor;shortness of breath,paracetamol,54,M
+covid19,cough,albuterol;insulin,59,F
+covid19;diabetes,fatigue;shortness of breath;cough,esomeprazole;insulin,38,M
+covid19,fever,rosuvastatin;albuterol,56,M
+covid19,fatigue,albuterol;paracetamol,62,M
+covid19,fatigue,levothyroxine,58,M
+covid19;alzheimers,fatigue;diarrhoea;muscle-ache,pregabalin;insulin,37,M
+ischemic stroke,vomiting;pallor,insulin;rosuvastatin,52,M
+ischemic stroke;typhoid,diarrhoea;fever,paracetamol;insulin,58,M
+covid19,cough;fatigue,insulin,61,M
+covid19,fatigue;fever,insulin,39,M
+ischemic stroke,pallor;shortness of breath,esomeprazole;insulin,35,M
+dengue,fatigue;pallor,rosuvastatin;fluticasone,48,M
+covid19,muscle-ache;cough,insulin;albuterol,61,M
+covid19,fatigue;loss of appetite,insulin;rosuvastatin,34,M
+covid19,fatigue;fever,rosuvastatin;fluticasone,63,M
+ischemic stroke,pallor;diarrhoea,paracetamol;esomeprazole,57,F
+covid19,pallor;fatigue,insulin;fluticasone,58,M
+diabetes,diarrhoea;shortness of breath,paracetamol;esomeprazole,58,M
+malaria,pallor,albuterol;paracetamol,36,M
+covid19,diarrhoea;cough,paracetamol;rosuvastatin,55,M
+diabetes,shortness of breath,insulin;paracetamol,43,F
+covid19,cough,esomeprazole;insulin,37,M
+hepatitis-C;dengue,vomiting;pallor,levothyroxine;fluticasone,49,M
+dengue,pallor,fluticasone,41,F
+covid19,cough,insulin,43,F
+malaria,pallor,fluticasone,34,M
+covid19,pallor;diarrhoea,rosuvastatin;fluticasone,63,M
+covid19,cough;pallor,insulin;paracetamol,39,M
+malaria,shortness of breath;pallor,paracetamol,37,F
+covid19,vomiting;shortness of breath,insulin,52,M
+ischemic stroke,diarrhoea;pallor,rosuvastatin;esomeprazole,55,M
+covid19,vomiting;cough,insulin;albuterol,48,M
+covid19,pallor;fever,fluticasone;esomeprazole,50,M
+hepatitis-C,vomiting;pallor,fluticasone,52,M
+ischemic stroke,pallor;loss of appetite,paracetamol,46,M
+covid19,fatigue;fever,fluticasone,39,M
+dengue,diarrhoea,pregabalin;rosuvastatin,34,M
+covid19,cough,insulin,39,M
+covid19,shortness of breath;cough,insulin,41,M
+covid19,cough;headache,insulin,59,F
+covid19,fatigue;cough,albuterol;rosuvastatin,43,M
+covid19,pallor;muscle-ache,levothyroxine;pregabalin,64,M
+tuberculosis,muscle-ache;pallor,paracetamol,46,M
+ischemic stroke,pallor,paracetamol;rosuvastatin,59,M
+covid19,fatigue;shortness of breath,albuterol;pregabalin,38,M
+ischemic stroke,pallor,insulin,57,M
+covid19,cough;diarrhoea,rosuvastatin;insulin,62,M
+covid19,pallor,insulin,60,M
+diabetes,diarrhoea;vomiting,paracetamol,46,M
+covid19,vomiting;cough,insulin,61,M
+alzheimers,headache;vomiting,levothyroxine;pregabalin,62,M
+dengue,pallor,pregabalin,44,M
+covid19,fatigue;fever,levothyroxine;pregabalin,39,M
+covid19,fatigue;cough,albuterol,39,M
+dengue,pallor,fluticasone;insulin,57,M
+covid19,nausea;cough,rosuvastatin;insulin,62,M
+covid19,fatigue;cough,rosuvastatin;insulin,45,M
+covid19,fatigue,insulin,63,M
+covid19,cough,albuterol;insulin,49,M
+ischemic stroke,pallor,esomeprazole;pregabalin,51,M
+ischemic stroke,diarrhoea;pallor,rosuvastatin;paracetamol,62,M
+covid19,fatigue;diarrhoea,insulin,57,F
+covid19,headache;vomiting,albuterol;insulin,55,M
+covid19,cough;vomiting,rosuvastatin;albuterol,49,M
+covid19,cough;fatigue,rosuvastatin,38,M
+covid19,fatigue;pallor,albuterol,54,M
+dengue,nausea,insulin;pregabalin,62,M
+covid19,pallor;vomiting,insulin;rosuvastatin,41,M
+covid19,vomiting;diarrhoea,insulin;albuterol,60,M
+covid19,headache,albuterol;insulin,49,F
+hepatitis-C,pallor,levothyroxine;esomeprazole,62,M
+covid19,cough,insulin;rosuvastatin,53,F
+covid19;typhoid,fatigue;pallor,rosuvastatin;paracetamol;esomeprazole,55,M
+covid19,cough,fluticasone;pregabalin,50,M
+ischemic stroke,pallor,levothyroxine;esomeprazole,50,M
+covid19,pallor;cough,esomeprazole;insulin,35,M
+covid19,fatigue;cough,rosuvastatin;insulin,42,M
+covid19,cough,insulin,62,M
+ischemic stroke,shortness of breath;headache,paracetamol;rosuvastatin,51,M
+covid19;diabetes,shortness of breath;cough,paracetamol;insulin,63,F
+dengue,loss of appetite;pallor,rosuvastatin;esomeprazole,39,M
+diabetes,fever;shortness of breath,esomeprazole;paracetamol,49,M
+covid19,cough;nausea,albuterol,64,M
+covid19,cough,rosuvastatin;insulin,36,M
+hepatitis-C,vomiting,albuterol,38,M
+covid19,shortness of breath,insulin,60,F
+covid19,fatigue;pallor,insulin,34,M
+covid19;diabetes,fatigue;loss of appetite;pallor,fluticasone;paracetamol,60,M
+covid19,cough,insulin,47,M
+covid19,cough;loss of appetite,insulin,50,M
+diabetes,shortness of breath;diarrhoea,paracetamol,55,M
+covid19,fatigue;cough,fluticasone;insulin,38,M
+dengue,diarrhoea;loss of appetite,fluticasone;rosuvastatin,43,F
+hepatitis-C,vomiting,esomeprazole;fluticasone,46,M
+covid19,pallor;cough,paracetamol,55,F
+hepatitis-C;dengue,diarrhoea;vomiting;pallor,fluticasone;pregabalin,52,M
+diabetes,diarrhoea;shortness of breath,insulin;paracetamol,38,M
+covid19,fever;fatigue,paracetamol;rosuvastatin,54,M
+covid19,nausea,insulin;levothyroxine,46,F
+covid19,fatigue,rosuvastatin;insulin,59,M
+covid19,fever;vomiting,rosuvastatin;insulin,40,M
+covid19,pallor;cough,levothyroxine;rosuvastatin,43,M
+ischemic stroke,diarrhoea;pallor,esomeprazole;rosuvastatin,64,M
+covid19,shortness of breath;fatigue,insulin,34,M
+covid19,fatigue;cough,insulin,46,M
+covid19,diarrhoea;cough,insulin,52,M
+covid19,cough,rosuvastatin;esomeprazole,60,F
+covid19,diarrhoea;fatigue,paracetamol;albuterol,54,M
+diabetes,diarrhoea,paracetamol;esomeprazole,34,F
+tuberculosis,muscle-ache;shortness of breath,levothyroxine;pregabalin,38,M
+covid19,fever;pallor,levothyroxine;paracetamol,56,M
+alzheimers,diarrhoea,paracetamol,41,M
+dengue,pallor;diarrhoea,pregabalin;esomeprazole,60,M
+covid19,muscle-ache;headache,insulin,60,M
+covid19,fatigue;cough,insulin,49,M
+covid19,pallor;fatigue,paracetamol;rosuvastatin,54,M
+covid19,pallor;vomiting,insulin;fluticasone,49,M
+covid19;diabetes,fever;muscle-ache,levothyroxine;paracetamol;insulin,53,M
+diabetes;typhoid,diarrhoea;pallor,albuterol;paracetamol;esomeprazole,53,M
+ischemic stroke,diarrhoea,insulin,50,M
+tuberculosis,vomiting,paracetamol,60,M
+covid19,cough;pallor,pregabalin;insulin,61,M
+dengue,nausea;pallor,fluticasone;rosuvastatin,64,M
+tuberculosis,fatigue;shortness of breath,levothyroxine;paracetamol,42,M
+covid19,pallor,pregabalin;insulin,61,M
+covid19,cough,insulin,52,M
+diabetes,headache;fatigue,insulin;paracetamol,49,M
+ischemic stroke,diarrhoea,insulin;rosuvastatin,35,F
+covid19,cough;muscle-ache,insulin;fluticasone,53,M
+hepatitis-C,vomiting;shortness of breath,esomeprazole;rosuvastatin,63,M
+hepatitis-C,vomiting,rosuvastatin;paracetamol,40,M
+ischemic stroke,pallor;diarrhoea,esomeprazole,38,F
+typhoid,pallor;fever,levothyroxine;paracetamol,64,M
+hepatitis-C;covid19,vomiting;cough;pallor,rosuvastatin;levothyroxine;insulin,56,M
+typhoid,pallor;vomiting,paracetamol,58,M
+covid19,pallor;fatigue,insulin,56,M
+ischemic stroke,pallor;diarrhoea,pregabalin;esomeprazole,44,M
+typhoid,headache;pallor,esomeprazole,58,M
+hepatitis-C;dengue,diarrhoea;pallor,paracetamol;esomeprazole,34,M
+typhoid;ischemic stroke,diarrhoea;loss of appetite;pallor,paracetamol;esomeprazole,59,M
+covid19,headache;fatigue,insulin;levothyroxine,60,F
+diabetes;tuberculosis,shortness of breath,paracetamol,40,M
+covid19,cough,insulin;levothyroxine,52,M
+tuberculosis,shortness of breath,paracetamol,42,M
+covid19,cough;pallor,albuterol;rosuvastatin,51,M
+covid19,cough;fatigue,albuterol;insulin,51,M
+covid19,diarrhoea;nausea,rosuvastatin;insulin,38,M
+alzheimers,muscle-ache;vomiting,insulin,54,M
+covid19;tuberculosis,shortness of breath;cough;pallor,levothyroxine;albuterol;paracetamol,59,F
+covid19,vomiting;muscle-ache,insulin;rosuvastatin,57,M
+hepatitis-C,vomiting,albuterol;rosuvastatin,38,M
+typhoid,diarrhoea,albuterol;insulin,41,M
+covid19,loss of appetite,albuterol;insulin,42,M
+covid19,cough,insulin;fluticasone,58,F
+ischemic stroke,pallor;diarrhoea,esomeprazole;pregabalin,62,M
+covid19,pallor;vomiting,insulin;rosuvastatin,55,F
+hepatitis-C;malaria,vomiting;pallor,paracetamol;esomeprazole,45,M
+ischemic stroke;typhoid,diarrhoea;fever,paracetamol;esomeprazole,60,M
+ischemic stroke,pallor;diarrhoea,paracetamol;rosuvastatin,63,F
+tuberculosis,pallor,paracetamol,48,M
+covid19,cough,insulin;fluticasone,56,M
+covid19;diabetes,shortness of breath;diarrhoea,paracetamol;insulin,53,M
+covid19,muscle-ache;cough,rosuvastatin;esomeprazole,49,M
+covid19,pallor;diarrhoea,insulin,40,M
+covid19,cough,rosuvastatin;paracetamol,43,M
+dengue,headache;pallor,rosuvastatin;pregabalin,45,F
+diabetes,diarrhoea,esomeprazole,43,F
+covid19,fatigue,insulin,56,M
+ischemic stroke,pallor,levothyroxine;pregabalin,60,M
+tuberculosis,headache;vomiting,paracetamol,58,M
+hepatitis-C,vomiting;fatigue,albuterol;levothyroxine,60,M
+covid19,loss of appetite,insulin;paracetamol,51,M
+dengue,diarrhoea,fluticasone,54,M
+covid19,fatigue,esomeprazole;pregabalin,47,M
+covid19,fatigue,pregabalin;levothyroxine,56,M
+ischemic stroke,pallor;diarrhoea,pregabalin;paracetamol,58,M
+covid19,cough;pallor,pregabalin;rosuvastatin,63,F
+covid19,cough;fatigue,rosuvastatin,38,M
+covid19,fever;fatigue,insulin;albuterol,52,M
+covid19,fatigue;cough,insulin,60,F
+covid19,vomiting;pallor,insulin;pregabalin,48,M
+tuberculosis,headache;shortness of breath,paracetamol,62,F
+dengue,loss of appetite;fatigue,esomeprazole;pregabalin,56,M
+covid19,cough;pallor,pregabalin,42,M
+covid19,diarrhoea;vomiting,insulin,49,M
+covid19,cough;fever,insulin,34,M
+covid19,fatigue,insulin;fluticasone,38,M
+diabetes,shortness of breath,paracetamol;esomeprazole,54,M
+typhoid,pallor,paracetamol,52,M
+covid19,diarrhoea;cough,esomeprazole;insulin,52,M
+malaria,pallor;shortness of breath,esomeprazole;insulin,48,M
+covid19,cough,rosuvastatin,43,M
+covid19,fatigue;cough,rosuvastatin;insulin,37,M
+covid19;tuberculosis,diarrhoea;cough;fever,fluticasone;paracetamol,57,M
+covid19;diabetes,shortness of breath;diarrhoea;fever,levothyroxine;fluticasone;paracetamol,51,M
+covid19,fatigue;cough,rosuvastatin,45,M
+malaria,pallor;muscle-ache,paracetamol;esomeprazole,51,M
+tuberculosis,shortness of breath;vomiting,paracetamol;pregabalin,58,M
+hepatitis-C,shortness of breath;vomiting,albuterol;paracetamol,62,M
+covid19,cough;fatigue,rosuvastatin;albuterol,38,M
+covid19,shortness of breath;cough,levothyroxine;insulin,34,M
+covid19,cough,insulin,54,M
+covid19,cough,rosuvastatin;insulin,37,M
+alzheimers,muscle-ache;headache,pregabalin;fluticasone,54,M
+covid19;diabetes,loss of appetite;cough;pallor,paracetamol;insulin,56,M
+covid19,cough;fatigue,pregabalin;insulin,34,F
+covid19,pallor;cough,albuterol,52,M
+hepatitis-C,pallor,rosuvastatin;paracetamol,60,M
+dengue,diarrhoea,rosuvastatin,46,M
+ischemic stroke,pallor;fever,insulin;esomeprazole,64,M
+covid19,fatigue,insulin,49,M
+covid19,pallor,insulin;albuterol,49,M
+covid19,fatigue;diarrhoea,rosuvastatin;paracetamol,44,M
+dengue,diarrhoea,pregabalin;esomeprazole,53,M
+diabetes;typhoid,shortness of breath;diarrhoea;pallor,paracetamol;esomeprazole,38,M
+covid19,muscle-ache;fever,insulin;pregabalin,43,M
+covid19;diabetes,loss of appetite;cough,fluticasone;paracetamol;insulin,36,M
+covid19,pallor,insulin,56,M
+dengue,diarrhoea;headache,esomeprazole,40,M
+hepatitis-C,vomiting;diarrhoea,esomeprazole,64,M
+covid19,pallor;cough,rosuvastatin,55,M
+covid19,cough,albuterol;insulin,41,M
+dengue,loss of appetite;diarrhoea,esomeprazole;rosuvastatin,53,M
+covid19,cough;vomiting,insulin;levothyroxine,52,M
+covid19,cough;loss of appetite,insulin;rosuvastatin,37,M
+hepatitis-C,headache,albuterol;esomeprazole,58,M
+ischemic stroke,diarrhoea,paracetamol,52,M
+covid19,cough;fatigue,levothyroxine;esomeprazole,48,M
+diabetes,diarrhoea;headache,rosuvastatin;fluticasone,56,M
+covid19,shortness of breath;pallor,insulin,47,M
+covid19,fatigue;cough,paracetamol,51,M
+covid19,cough,insulin,38,F
+covid19,cough,rosuvastatin;insulin,53,M
+dengue,pallor,esomeprazole;rosuvastatin,42,F
+covid19,cough,fluticasone,60,M
+covid19,cough;fatigue,insulin,44,M
+hepatitis-C,vomiting;cough,esomeprazole;albuterol,53,M
+covid19,pallor;cough,insulin,48,F
+hepatitis-C,vomiting,paracetamol,41,M
+diabetes,pallor;diarrhoea,esomeprazole;levothyroxine,48,M
+covid19,fatigue,fluticasone;levothyroxine,43,M
+covid19,cough,insulin;rosuvastatin,42,M
+ischemic stroke,diarrhoea;pallor,pregabalin;esomeprazole,36,M
+hepatitis-C,vomiting;shortness of breath,paracetamol,60,M
+covid19,cough;nausea,pregabalin,54,M
+covid19;alzheimers,cough;muscle-ache;pallor,rosuvastatin;esomeprazole;insulin,47,M
+dengue,vomiting;pallor,fluticasone;pregabalin,56,M
+covid19,cough,rosuvastatin;insulin,40,F
+malaria,shortness of breath,albuterol;esomeprazole,50,M
+tuberculosis,loss of appetite;pallor,insulin;paracetamol,57,M
+dengue,pallor;fatigue,rosuvastatin;pregabalin,50,M
+covid19,fatigue;pallor,rosuvastatin;insulin,47,M
+hepatitis-C,vomiting,fluticasone;levothyroxine,48,M
+covid19,pallor;shortness of breath,insulin,36,M
+covid19,fever;shortness of breath,insulin,34,M
+diabetes,shortness of breath,paracetamol;esomeprazole,35,M
+covid19;ischemic stroke,fever;pallor,paracetamol;insulin,51,M
+covid19,cough,insulin;albuterol,45,M
+tuberculosis,pallor;shortness of breath,paracetamol,60,M
+tuberculosis,pallor,pregabalin;paracetamol,48,F
+covid19,nausea,pregabalin;paracetamol,58,M
+covid19,pallor;cough,albuterol;esomeprazole,62,M
+hepatitis-C,diarrhoea;vomiting,pregabalin;rosuvastatin,45,M
+dengue,pallor,fluticasone,52,M
+dengue,pallor,fluticasone;insulin,56,M
+covid19,pallor,fluticasone;insulin,34,M
+ischemic stroke,diarrhoea;loss of appetite,insulin;albuterol,62,M
+covid19,pallor,insulin;rosuvastatin,37,F
+covid19,pallor;fever,insulin,60,M
+covid19;alzheimers,fatigue;pallor,albuterol;pregabalin;esomeprazole,60,M
+covid19,cough,rosuvastatin,51,M
+ischemic stroke,fever;diarrhoea,levothyroxine;pregabalin,38,M
+covid19,fever,levothyroxine,52,M
+covid19,vomiting;fatigue,insulin;rosuvastatin,34,M
+dengue,shortness of breath;pallor,fluticasone;pregabalin,58,M
+covid19,fatigue;cough,insulin;albuterol,39,M
+tuberculosis;hepatitis-C,diarrhoea;vomiting;pallor,paracetamol;esomeprazole,53,M
+covid19,fatigue;cough,pregabalin,37,M
+dengue,pallor;shortness of breath,pregabalin,47,M
+covid19,vomiting;fatigue,rosuvastatin,61,M
+ischemic stroke,diarrhoea,esomeprazole;paracetamol,60,M
+covid19,vomiting,insulin,56,M
+diabetes,diarrhoea,paracetamol;esomeprazole,59,M
+dengue,pallor,rosuvastatin,46,M
+covid19,cough;fatigue,pregabalin;insulin,45,M
+hepatitis-C,pallor;vomiting,rosuvastatin;fluticasone,41,M
+covid19,shortness of breath;cough,insulin;albuterol,46,M
+alzheimers,headache,rosuvastatin;paracetamol,53,M
+covid19,cough;pallor,insulin;rosuvastatin,38,M
+covid19,fever;shortness of breath,insulin,52,M
+covid19,cough;fatigue,fluticasone;rosuvastatin,55,F
+covid19,pallor;cough,insulin,50,F
+covid19,pallor;diarrhoea,fluticasone;albuterol,41,M
+covid19,pallor;fatigue,insulin;pregabalin,36,M
+covid19;diabetes,fatigue;muscle-ache,rosuvastatin;insulin,49,M
+hepatitis-C,shortness of breath,pregabalin;fluticasone,40,M
+ischemic stroke,pallor,pregabalin,39,F
+covid19,cough,fluticasone;levothyroxine,56,M
+hepatitis-C,pallor;nausea,rosuvastatin;albuterol,52,M
+diabetes,diarrhoea,paracetamol;rosuvastatin,47,F
+hepatitis-C,muscle-ache;vomiting,paracetamol;fluticasone,40,M
+hepatitis-C;malaria,diarrhoea;pallor,fluticasone;esomeprazole,42,M
+covid19,cough;fatigue,paracetamol;pregabalin,37,M
+covid19,cough;fever,levothyroxine;rosuvastatin,60,M
+covid19,fatigue,albuterol;rosuvastatin,58,M
+dengue;covid19,cough;fever;pallor,esomeprazole;fluticasone;insulin,45,M
+covid19,cough;fever,rosuvastatin;insulin,42,M
+covid19,vomiting;fatigue,insulin;albuterol,52,M
+dengue,pallor,rosuvastatin,41,M
+dengue;covid19,shortness of breath;loss of appetite;pallor,levothyroxine;rosuvastatin;esomeprazole,43,M
+diabetes,shortness of breath,esomeprazole;paracetamol,64,M
+covid19,fatigue;diarrhoea,paracetamol,55,M
+tuberculosis,vomiting,paracetamol;insulin,35,M
+covid19,fatigue;cough,insulin;levothyroxine,49,M
+tuberculosis,shortness of breath;headache,paracetamol,47,M
+covid19,cough,rosuvastatin;insulin,61,M
+ischemic stroke,pallor,albuterol;rosuvastatin,34,F
+dengue,pallor,fluticasone;rosuvastatin,47,F
+covid19,diarrhoea;cough,rosuvastatin,48,M
+hepatitis-C,vomiting,pregabalin;fluticasone,41,M
+hepatitis-C,vomiting;pallor,fluticasone;levothyroxine,46,M
+covid19,fatigue,fluticasone;pregabalin,36,M
+ischemic stroke,pallor,albuterol;rosuvastatin,51,M
+diabetes,shortness of breath;diarrhoea,esomeprazole,38,M
+covid19,pallor,insulin,59,M
+covid19,diarrhoea,rosuvastatin;fluticasone,58,M
+hepatitis-C,vomiting,fluticasone;paracetamol,64,M
+covid19,fatigue,insulin;paracetamol,46,M
+tuberculosis,pallor;shortness of breath,paracetamol,48,M
+covid19,cough;pallor,levothyroxine;albuterol,62,M
+hepatitis-C,cough;vomiting,rosuvastatin;fluticasone,34,M
+covid19,vomiting;cough,insulin,64,M
+covid19,fever;pallor,insulin;levothyroxine,45,M
+dengue,diarrhoea;fatigue,esomeprazole,62,M
+covid19,cough,pregabalin;insulin,36,M
+dengue,pallor;diarrhoea,pregabalin;fluticasone,39,M
+diabetes;tuberculosis,shortness of breath;diarrhoea;pallor,paracetamol,49,M
+dengue,muscle-ache,rosuvastatin,35,M
+covid19,fatigue;shortness of breath,insulin;rosuvastatin,43,M
+covid19,shortness of breath;cough,insulin;albuterol,55,M
+dengue,loss of appetite;pallor,esomeprazole,39,M
+covid19,shortness of breath;diarrhoea,albuterol;esomeprazole,57,F
+covid19;alzheimers,shortness of breath;loss of appetite;cough,albuterol;fluticasone;insulin,53,M
+covid19,cough;fatigue,rosuvastatin,51,F
+covid19,fatigue,insulin,49,M
+covid19,cough;fatigue,insulin,37,F
+malaria;tuberculosis,shortness of breath;fatigue;pallor,paracetamol,46,M
